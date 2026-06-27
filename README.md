@@ -9,7 +9,7 @@ a mode manually. Just talk.
 
 ## Demo
 
-[Live demo](https://voiceagent.vercel.app)
+[Live demo](https://voiceagent-gilt.vercel.app)
 
 ![VoiceAgent demo](./demo.gif)
 
